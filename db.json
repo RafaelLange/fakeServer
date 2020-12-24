@@ -188,188 +188,66 @@
         {
             "id": 2021,
             "weeks": [{
+                "id": 1,
+                "days": [{
                     "id": 1,
-                    "days": [{
-                        "id": 1,
-                        "hours": [{
-                                "id": 1,
-                                "available": true
-                            },
-                            {
-                                "id": 2,
-                                "available": true
-                            },
-                            {
-                                "id": 3,
-                                "available": true
-                            },
-                            {
-                                "id": 4,
-                                "available": true
-                            }
-                        ]
-                    }, {
-                        "id": 2,
-                        "hours": [{
-                                "id": 1,
-                                "available": true
-                            },
-                            {
-                                "id": 2,
-                                "available": true
-                            },
-                            {
-                                "id": 3,
-                                "available": true
-                            },
-                            {
-                                "id": 4,
-                                "available": true
-                            }
-                        ]
-                    }, {
-                        "id": 3,
-                        "hours": [{
-                                "id": 1,
-                                "available": true
-                            },
-                            {
-                                "id": 2,
-                                "available": true
-                            },
-                            {
-                                "id": 3,
-                                "available": true
-                            },
-                            {
-                                "id": 4,
-                                "available": true
-                            }
-                        ]
-                    }]
-                },
-                {
-                    "id": 2,
-                    "days": [{
-                        "id": 1,
-                        "hours": [{
-                                "id": 1,
-                                "available": true
-                            },
-                            {
-                                "id": 2,
-                                "available": true
-                            },
-                            {
-                                "id": 3,
-                                "available": true
-                            },
-                            {
-                                "id": 4,
-                                "available": true
-                            }
-                        ]
-                    }, {
-                        "id": 2,
-                        "hours": [{
-                                "id": 1,
-                                "available": true
-                            },
-                            {
-                                "id": 2,
-                                "available": true
-                            },
-                            {
-                                "id": 3,
-                                "available": true
-                            },
-                            {
-                                "id": 4,
-                                "available": true
-                            }
-                        ]
-                    }, {
-                        "id": 3,
-                        "hours": [{
-                                "id": 1,
-                                "available": true
-                            },
-                            {
-                                "id": 2,
-                                "available": true
-                            },
-                            {
-                                "id": 3,
-                                "available": true
-                            },
-                            {
-                                "id": 4,
-                                "available": true
-                            }
-                        ]
-                    }]
+                    "hours": [{
+                            "id": 1,
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "available": true
+                        }
+                    ]
                 }, {
-                    "id": 1,
-                    "days": [{
-                        "id": 1,
-                        "hours": [{
-                                "id": 1,
-                                "available": true
-                            },
-                            {
-                                "id": 2,
-                                "available": true
-                            },
-                            {
-                                "id": 3,
-                                "available": true
-                            },
-                            {
-                                "id": 4,
-                                "available": true
-                            }
-                        ]
-                    }, {
-                        "id": 2,
-                        "hours": [{
-                                "id": 1,
-                                "available": true
-                            },
-                            {
-                                "id": 2,
-                                "available": true
-                            },
-                            {
-                                "id": 3,
-                                "available": true
-                            },
-                            {
-                                "id": 4,
-                                "available": true
-                            }
-                        ]
-                    }, {
-                        "id": 3,
-                        "hours": [{
-                                "id": 1,
-                                "available": true
-                            },
-                            {
-                                "id": 2,
-                                "available": true
-                            },
-                            {
-                                "id": 3,
-                                "available": true
-                            },
-                            {
-                                "id": 4,
-                                "available": true
-                            }
-                        ]
-                    }]
-                }
-            ]
+                    "id": 2,
+                    "hours": [{
+                            "id": 1,
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "available": true
+                        }
+                    ]
+                }, {
+                    "id": 3,
+                    "hours": [{
+                            "id": 1,
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "available": true
+                        }
+                    ]
+                }]
+            }]
         }
     ]
 }
