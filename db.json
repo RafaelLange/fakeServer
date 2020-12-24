@@ -1,5 +1,5 @@
 {
-    "weeks": [{
+    "posts": [{
             "id": 1,
             "title": "hello"
         },
@@ -7,7 +7,7 @@
             "id": 2,
             "title": "hello"
         }, {
-            "id": 3,
+            "id": 1,
             "title": "hello"
         }
     ]
