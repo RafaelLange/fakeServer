@@ -1,9 +1,9 @@
 {
-    "posts": [{
-        "id": 1,
+    "weeks": [{
+        "week": 1,
         "title": "hello"
-    }],
-    "profile": {
-        "name": "typicode"
-    }
+    }, {
+        "week": 2,
+        "title": "hello"
+    }]
 }
